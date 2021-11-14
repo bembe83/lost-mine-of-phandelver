@@ -1,0 +1,125 @@
+{
+  "name": "lost-mine-of-phandelver",
+  "title": "Lost Mine of Phandelver",
+  "description": "",
+  "authors": [
+    "R20Converter"
+  ],
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "entity": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-lost-mine-of-phandelver-spells",
+      "package": "world",
+      "path": "packs/ddb-lost-mine-of-phandelver-spells.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "/Users/bembe/Library/Application Support/FoundryVTT/Data/worlds/lost-mine-of-phandelver/packs/ddb-lost-mine-of-phandelver-spells.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Items",
+      "name": "ddb-lost-mine-of-phandelver-items",
+      "package": "world",
+      "path": "packs/ddb-lost-mine-of-phandelver-items.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "/Users/bembe/Library/Application Support/FoundryVTT/Data/worlds/lost-mine-of-phandelver/packs/ddb-lost-mine-of-phandelver-items.db"
+    },
+    {
+      "entity": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-lost-mine-of-phandelver-monsters",
+      "package": "world",
+      "path": "packs/ddb-lost-mine-of-phandelver-monsters.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "/Users/bembe/Library/Application Support/FoundryVTT/Data/worlds/lost-mine-of-phandelver/packs/ddb-lost-mine-of-phandelver-monsters.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-lost-mine-of-phandelver-feats",
+      "package": "world",
+      "path": "packs/ddb-lost-mine-of-phandelver-feats.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "/Users/bembe/Library/Application Support/FoundryVTT/Data/worlds/lost-mine-of-phandelver/packs/ddb-lost-mine-of-phandelver-feats.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-lost-mine-of-phandelver-class-features",
+      "package": "world",
+      "path": "packs/ddb-lost-mine-of-phandelver-class-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "/Users/bembe/Library/Application Support/FoundryVTT/Data/worlds/lost-mine-of-phandelver/packs/ddb-lost-mine-of-phandelver-class-features.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-lost-mine-of-phandelver-classes",
+      "package": "world",
+      "path": "packs/ddb-lost-mine-of-phandelver-classes.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "/Users/bembe/Library/Application Support/FoundryVTT/Data/worlds/lost-mine-of-phandelver/packs/ddb-lost-mine-of-phandelver-classes.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-lost-mine-of-phandelver-racial-traits",
+      "package": "world",
+      "path": "packs/ddb-lost-mine-of-phandelver-racial-traits.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "/Users/bembe/Library/Application Support/FoundryVTT/Data/worlds/lost-mine-of-phandelver/packs/ddb-lost-mine-of-phandelver-racial-traits.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Races",
+      "name": "ddb-lost-mine-of-phandelver-races",
+      "package": "world",
+      "path": "packs/ddb-lost-mine-of-phandelver-races.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "/Users/bembe/Library/Application Support/FoundryVTT/Data/worlds/lost-mine-of-phandelver/packs/ddb-lost-mine-of-phandelver-races.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Override",
+      "name": "ddb-lost-mine-of-phandelver-override",
+      "package": "world",
+      "path": "packs/ddb-lost-mine-of-phandelver-override.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "/Users/bembe/Library/Application Support/FoundryVTT/Data/worlds/lost-mine-of-phandelver/packs/ddb-lost-mine-of-phandelver-override.db"
+    },
+    {
+      "entity": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-lost-mine-of-phandelver-tables",
+      "package": "world",
+      "path": "packs/ddb-lost-mine-of-phandelver-tables.db",
+      "system": "dnd5e",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "0.8.9",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.5.3"
+}

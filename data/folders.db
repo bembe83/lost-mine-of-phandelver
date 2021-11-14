@@ -1,0 +1,23 @@
+{"_id":"MGYxNTkyMzIxZGJk","name":"Creatures","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":800000}
+{"_id":"MjM5ZmNlNzhmMDhk","name":"Part 4: Wave Echo Cave","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":500000}
+{"_id":"Mjc4ZjJlY2QzMzNl","name":"Creatures","flags":{},"type":"Actor","color":"","parent":null,"sort":800000}
+{"_id":"Mjg3Y2QyM2IxNTRi","name":"Player Art Handouts","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1300000}
+{"_id":"MmQyZGFhODliOTMw","name":"Pre-generated Characters","flags":{},"type":"JournalEntry","color":"","parent":"Mjg3Y2QyM2IxNTRi","sort":1600000}
+{"_id":"N2Q0MWQ4NTVhMmNk","name":"Named NPCs","flags":{},"type":"Actor","color":"","parent":"Mjc4ZjJlY2QzMzNl","sort":900000}
+{"_id":"NDczNWVkMzQ0MDc3","name":"Creatures and NPCs","flags":{},"type":"JournalEntry","color":"","parent":"Mjg3Y2QyM2IxNTRi","sort":1500000}
+{"_id":"NjExMjdkMTQwNjVh","name":"Decks","flags":{},"type":"Item","color":"","parent":null,"sort":1900000}
+{"_id":"NjFlYmVmMWE1ZGU4","name":"Magic Items","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":600000}
+{"_id":"NjQwNWJlNTE4Mjg2","name":"Roll20 Information","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":100000}
+{"_id":"NzMyZmUxZTk3MzYy","name":"Part 3: The Spider's Web","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":400000}
+{"_id":"ODMyMjRkYmI3NGRj","name":"Decks","flags":{},"type":"RollTable","color":"","parent":null,"sort":1800000}
+{"_id":"ODdmNTczYTE3N2Rm","name":"Part 1: Goblin Arrows","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":200000}
+{"_id":"OWNmZmU3MDhiZWU2","name":"Part 2: Phandalin","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":300000}
+{"_id":"Y2UyZTRiYmIzZmQ1","name":"Rollable Tables","flags":{},"type":"RollTable","color":"","parent":null,"sort":1700000}
+{"_id":"YWFmNWNmZWU2ZTk3","name":"Playing Cards","flags":{},"type":"Item","color":"","parent":"NjExMjdkMTQwNjVh","sort":2000000}
+{"_id":"YmYzZmZlZTM2OGJi","name":"Villagers of Phandalin","flags":{},"type":"Actor","color":"","parent":"N2Q0MWQ4NTVhMmNk","sort":1000000}
+{"_id":"ZDcxNGI1ZGM1Zjcz","name":"Pre-generated Characters","flags":{},"type":"Actor","color":"","parent":null,"sort":1200000}
+{"_id":"Zjk2M2JjMDVhNjli","name":"Named NPCs","flags":{},"type":"JournalEntry","color":"","parent":"Mjg3Y2QyM2IxNTRi","sort":1400000}
+{"_id":"ZjlkNzMyMjJiYjUy","name":"Introduction","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":100000}
+{"_id":"ZmNjZDA4MjI4NzU4","name":"D&D 5e Spells (SRD)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
+{"_id":"ZmU2MTIxMTMwMjI1","name":"Magic Items","flags":{},"type":"Item","color":"","parent":null,"sort":600000}
+{"name":"PC","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"efy8xA8MzfVao0IN"}
